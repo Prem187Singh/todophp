@@ -1,0 +1,50 @@
+
+
+body{
+
+    color: aliceblue;
+   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(7 7 67) 35%, rgba(0,212,255,1) 100%);
+    
+
+}
+a{
+    color: aliceblue;
+}
+
+.mycolor{
+    color: aliceblue;
+}
+.mycolor a{
+    color: aliceblue;
+   margin-left: 10px;
+    
+}
+
+
+
+
+.login-form{
+    margin : auto;
+    color: aliceblue;
+    border: 10px solid dodgerblue;
+}
+
+.formcontainer{
+    height: 100%;
+    margin-top: 10%;
+    color: rgb(23, 142, 246);
+}
+.logout-btn a{
+    text-decoration : none;
+    color : #ede6e6;
+}
+
+#add-todo-form{
+    display : none;
+    color: aliceblue;
+
+}
+
+.hidden{
+    display : none;
+}
